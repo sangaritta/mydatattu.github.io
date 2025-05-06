@@ -1,6 +1,6 @@
 {
-    "name": "my_data",
-    "short_name": "my_data",
+    "name": "myapp",
+    "short_name": "myapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
